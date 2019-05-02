@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Stardot
 description: Website for the Stardot Github Community
-baseurl: "/stardot" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog ### SM set to empty because we're hosting on a username.github.io site
 url: "https://stardot.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 permalink: pretty
